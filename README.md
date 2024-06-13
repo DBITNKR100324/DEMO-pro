@@ -1,3 +1,2 @@
-#name :longar aker;
-#hobby :coding ;
-#fund to learn
+# iam new at coder who recently join Github
+
